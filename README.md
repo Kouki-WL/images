@@ -3,3 +3,8 @@
 https://kouki-wl.github.io/images-gozyo/
 <br>
 ファイル名.png
+<br>
+<br>
+画像メモ
+<br>
+幅は200px、高さ指定無し、背景は透過

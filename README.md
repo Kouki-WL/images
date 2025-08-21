@@ -7,7 +7,8 @@ https://kouki-wl.github.io/images-gozyo/
 <br>
 画像メモ
 <br>
-- 幅：200px
+- 幅：400px
+- 高：600px
 - 髪の色[メイン]（16進数）：#f5f5f5
 - 髪の色[コントラスト]（16進数）：#ffffff
 - アイマスクのシワ（16進数）：#d3d3d3
